@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+
+p{
+    font-family: "Kalnia Glaze", serif;
+    color:white;
+    font-size: 30px;
+    background-color:black
+    padding: 10px;
+    line-height: 1.2;
+    word-spacing: 10px;
+    letter-spacing: 0;
+    border-left: 5px solid brown;
+    margin:0;  
+}
+
+
+.One{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    color: white;
+    background-color: black;
+    color: brown;
+    margin-bottom: 20px;
+    
+}
+.Two{
+    font-family: "Lato", sans-serif;
+    color: white;
+    background-color: brown;
+    color: aqua;
+    margin-top: 30px;
+}
+span{
+    color: yellow;
+}   
+.span{
+    color:brown
+}
+#two{
+    color: blueviolet;
+
+}
